@@ -1,0 +1,3 @@
+15:49:45 - methods.ConnectThreadMonitor:run:21 - Запущен потоковый обработчик
+15:49:46 - methods.ConnectThreadMonitor:run:34 - SERVER_OK: ['SERVER_OK', 'Успешное подключение к чату!', b't0lZgyCBeeYGf0CQl6NmpIGg4YLVAahXXkFC6m4tsmQ=']
+15:49:46 - __main__:signal_handler:189 - ['SERVER_OK', 'Успешное подключение к чату!', b't0lZgyCBeeYGf0CQl6NmpIGg4YLVAahXXkFC6m4tsmQ=']
